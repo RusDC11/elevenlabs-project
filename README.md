@@ -2,7 +2,7 @@
 
 A Python integration with the ElevenLabs Text-to-Speech API, built as part of a 14-day self-study sprint targeting related roles.
 
-## What id does
+## What it does
 
 - Authenticates with the ElevenLabs API using a secure API key
 - Fetches available voices from the ElevenLabs voice library
@@ -23,7 +23,7 @@ A Python integration with the ElevenLabs Text-to-Speech API, built as part of a 
 3. Create a `.env` file with your ElevenLabs API key:
     ELEVENLABS_API_KEY=your_key_here
     ELEVENLABS_VOICE_ID=your_voice_id_here
-4. Run: `python day6.py`
+4. Run: `python main.py`
 
 ## Files
 
