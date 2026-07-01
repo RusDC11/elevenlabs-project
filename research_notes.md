@@ -1,0 +1,10 @@
+What is the difference between eleven_multilingual_v2 and eleven_turbo_v2_5?
+- The main difference is the character capacity and the generation speed. Although multilingual_v2 excels more in quality between language switches, v2.5 balances speed and quality while maintaining natural sounding output. 
+What is ElevenAgents and how does it differ from the TTS API you've been using?
+- ElevenAgents is the platform for deploying conversational voice agents with tools, integrations, and monitoring. The TTS API you've been using is one-directional — text in, audio out. ElevenAgents is two-directional — it listens, understands, and responds in real time.
+What is latency and why does it matter for voice AI in enterprise deployments?
+- Latency is the delay in transmission between the user and the AI, if the latency is too slow its not conversational for the user. Latency under 500ms is the threshold for natural conversation. Above that, users perceive the AI as broken. In enterprise call center deployments, high latency means abandoned calls and lost revenue. That's why turbo models exist — speed over maximum quality.
+What is voice cloning and what are the two types ElevenLabs offers?
+- The two types are Instant Voice Cloning (upload a short sample, works in minutes, lower fidelity) and Professional Voice Cloning (longer recording session, higher fidelity, requires verification).
+What does the Solutions Engineer role at ElevenLabs actually own — pre-sales, post-sales, or both?
+- I believe the role Solutions Engineer at ElevenLabs technical bridges customers and the company's products. Rather than owning product development or sales quotas alone, they own the successful technical adoption and deployment of ElevenLabs' Voice AI solutions. Quite integration, which I have an experience on.
