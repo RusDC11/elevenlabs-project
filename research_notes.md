@@ -1,5 +1,5 @@
 What is the difference between eleven_multilingual_v2 and eleven_turbo_v2_5?
-- The main difference is the character capacity and the generation speed. Although multilingual_v2 excels more in quality between language switches, v2.5 balances speed and quality while maintaining natural sounding output. 
+- The differences are quality, speed, and language support depth. Multilingual v2 supports 29 languages with higher emotional range. Turbo v2.5 prioritizes low latency for real-time applications at the cost of some expressiveness.
 What is ElevenAgents and how does it differ from the TTS API you've been using?
 - ElevenAgents is the platform for deploying conversational voice agents with tools, integrations, and monitoring. The TTS API you've been using is one-directional — text in, audio out. ElevenAgents is two-directional — it listens, understands, and responds in real time.
 What is latency and why does it matter for voice AI in enterprise deployments?
